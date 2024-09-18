@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#E8EAED'
     },
     header:{
-      alignItems:'center'
+    alignItems:'center'
     },
     title: {
         fontSize: 30,
